@@ -1,17 +1,7 @@
-# Comando de Spotify
+# Comando Spotify — Discord
 
+> **Status:** projeto legado / não mantido.
 
-## Instruções:
-```bash
-npm install canvas
-npm install jimp
-npm install moment
-```
+Experimento antigo de um comando de Spotify para bot de Discord. O código é mantido apenas como referência histórica e não deve ser considerado pronto para produção.
 
-
-## Demonstração:
-![](https://media.discordapp.net/attachments/529064545478508544/885760520223879168/spotify.png)
-
-## Aviso:
-```js
-A porra do comando não está 100% pronto. Se vira pra termina-lo.
+Não representa o padrão dos projetos atuais do perfil.
